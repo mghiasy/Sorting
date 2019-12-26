@@ -1,4 +1,4 @@
-package comparator3;
+package comparator;
 
 import java.util.Comparator;
 import java.util.Date;
